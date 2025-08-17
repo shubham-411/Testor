@@ -6,7 +6,7 @@ How It Works-
 
 3.The site is displayed in three iframes representing:
 
-   Desktop (1024px × 768px)
+   Desktop (1440px × 900px)
 
    Tablet (768px × 1024px)
 
